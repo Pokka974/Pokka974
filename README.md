@@ -10,7 +10,7 @@ Hi there 👋 I'm Julien !
 <p>
 I'm a <strong>passionate</strong> and <strong>highly motivated</strong> Junior Web Developer 🔥. I started to learn programming by my self a few years ago and decided to focus on <strong>Full Stack Web Development</strong>.<br/>
 I have completed an Openclassrooms's <a href='https://openclassrooms.com/fr/paths/556-developpeur-web'>Openclassrooms</a> bootcamp.
-I'm currently a Fullstack Javascript Developer for Capgemini (since may 2022).
+<br/>I'm currently a Fullstack Javascript Developer for <strong>Capgemini</strong> (since may 2022).
 </p>
 <br/>
 <div align='center'>
